@@ -31,22 +31,6 @@
       "password": "test",
       "teamName": "development",
       "role": "member"
-    },
-    {
-      "id": 4,
-      "name": "Thang Nguyen",
-      "loginName": "thangnguyen",
-      "password": "test",
-      "teamName": "development",
-      "role": "member"
-    },
-    {
-      "id": 5,
-      "name": "Cuong Duong",
-      "loginName": "cuongduong",
-      "password": "test",
-      "teamName": "development",
-      "role": "member"
     }
   ],
   "tasks": [
@@ -62,13 +46,13 @@
       "todo": [
         {
           "id": 1,
-          "todoTitle": "Investigate about technologies",
+          "todoTitle":  "Investigate about technologies",
           "status": "on-going",
           "workDate": "2023/07/24"
         },
         {
           "id": 2,
-          "todoTitle": "Prototype basic function",
+          "todoTitle":  "Prototype basic function",
           "status": "on-going",
           "workDate": "2023/07/24"
         }
@@ -86,13 +70,13 @@
       "todo": [
         {
           "id": 1,
-          "todoTitle": "research about json-server and lowdb",
+          "todoTitle":  "research about json-server and lowdb",
           "status": "on-going",
           "workDate": "2023/07/24"
         },
         {
           "id": 2,
-          "todoTitle": "API structures",
+          "todoTitle":  "API structures",
           "status": "on-going",
           "workDate": "2023/07/24"
         }
@@ -141,281 +125,6 @@
       "start": "2023/07/24",
       "deadline": "2023/07/26",
       "todo": []
-    },
-    {
-      "id": 7,
-      "taskTitle": "Delete test for member",
-      "priority": "low",
-      "status": "not-yet",
-      "assignTo": "anhtran",
-      "content": "Execute test",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": []
-    },
-    {
-      "id": 8,
-      "taskTitle": "Test Delete Task Func",
-      "priority": "low",
-      "status": "not-yet",
-      "assignTo": "phonghoang",
-      "content": "Execute test",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": []
-    },
-    {
-      "id": 9,
-      "taskTitle": "Pagination test for leader",
-      "priority": "low",
-      "status": "not-yet",
-      "assignTo": "phonghoang",
-      "content": "Execute test",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": []
-    },
-    {
-      "taskTitle": "Test add task",
-      "assignTo": "phonghoang",
-      "content": "Test add task function",
-      "priority": "high",
-      "status": "on-going",
-      "start": "2023/7/3",
-      "deadline": "2023/7/3",
-      "id": 13
-    },
-    {
-      "taskTitle": "test  add task demo 1",
-      "assignTo": "phonghoang",
-      "priority": "medium",
-      "status": "on-going",
-      "start": "2023/7/3",
-      "deadline": "2023/7/3",
-      "content": "test  add task demo 1",
-      "id": 14
-    },
-    {
-      "taskTitle": "test  add task demo 2",
-      "assignTo": "phonghoang",
-      "priority": "medium",
-      "status": "review",
-      "start": "2023/7/3",
-      "deadline": "2023/7/4",
-      "content": "test  add task demo 2",
-      "id": 15
-    },
-    {
-      "taskTitle": "Implement fake api test",
-      "assignTo": "phonghoang",
-      "priority": "medium",
-      "status": "on-going",
-      "start": "2023/7/3",
-      "deadline": "2023/7/5",
-      "content": "sdf",
-      "id": 26
-    },
-    {
-      "taskTitle": "test useEffecy test",
-      "assignTo": "phonghoang",
-      "priority": "medium",
-      "status": "on-going",
-      "start": "2023/7/3",
-      "deadline": "2023/7/3",
-      "content": "test",
-      "id": 28
-    },
-    {
-      "taskTitle": "Implement fake api dup",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 29
-    },
-    {
-      "taskTitle": "Implement fake api dup 1",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 30
-    },
-    {
-      "taskTitle": "Implement fake api test dup 1",
-      "priority": "high",
-      "status": "review",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server ",
-      "start": "2023/7/3",
-      "deadline": "2023/7/3",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 31
-    },
-    {
-      "taskTitle": "Implement fake api dub",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 33
-    },
-    {
-      "taskTitle": "Implement fake api dub s",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 34
-    },
-    {
-      "taskTitle": "Implement fake api dub ss",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 35
-    },
-    {
-      "taskTitle": "Implement fake api test",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/07/24",
-      "deadline": "2023/07/26",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 36
-    },
-    {
-      "taskTitle": "Implement fake api test 10",
-      "priority": "high",
-      "status": "on-going",
-      "assignTo": "phonghoang",
-      "content": "Implement fake api with json-server",
-      "start": "2023/7/3",
-      "deadline": "2023/7/4",
-      "todo": [
-        {
-          "id": 1,
-          "todoTitle": "research about json-server and lowdb",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        },
-        {
-          "id": 2,
-          "todoTitle": "API structures",
-          "status": "on-going",
-          "workDate": "2023/07/24"
-        }
-      ],
-      "id": 38
     }
   ]
 }
